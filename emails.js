@@ -1,2 +1,2 @@
-USER = 'testrobofoundry@gmail.com';
-PASS = 'Robots89';
+USER = '';
+PASS = '';
